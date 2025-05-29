@@ -4,7 +4,8 @@ const mongoose = require("mongoose");
 
 const cors = require("cors");
 const corsOptions = {
-  origin: "*",
+  origin:
+    "https://crm-app-anvaya-git-main-donovans-projects-b7659c43.vercel.app",
   credentials: true,
 };
 app.use(express.json());
