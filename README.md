@@ -155,7 +155,6 @@ This checklist helps track core features and development progress for the backen
 ## Future Goals
 
 - [ ] Authentication & Authorization
-- [ ] useContext for global state management
 
 ---
 
